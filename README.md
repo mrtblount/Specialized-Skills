@@ -11,6 +11,7 @@ Claude Skills are reusable instruction sets (`.md` files) that extend Claude Cod
 | Skill | Description |
 |-------|-------------|
 | [notion-ai-orchestrator](./notion-ai-orchestrator/) | Orchestrate Notion AI through the Claude Chrome Extension — create databases, search content, modify pages, and set up automations by delegating to Notion's built-in AI agent. |
+| [tune-up](./tune-up/) | Audit, adapt, and repair any skill, prompt, or agent setup so it does exactly what its owner intends — diagnose intent-routing, platform-fit, and packaging problems, fix them, and prove the fix with the owner's own words. Works on claude.ai and Claude Code ([one-click zip](./tune-up.zip)). |
 
 ## Usage
 
